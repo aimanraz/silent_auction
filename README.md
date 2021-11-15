@@ -5,4 +5,4 @@ For those who don't know what a silent auction is, it is like a regular auction.
 **Python Version:** 3.8++
 
 ## Flow of the program
-[](https://github.com/aimanraz/silent_auction/blob/main/Blind_flowchart.JPG)
+![](https://github.com/aimanraz/silent_auction/blob/main/Blind_flowchart.JPG)
