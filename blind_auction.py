@@ -1,5 +1,5 @@
 from replit import clear
-from art import logo
+from blind_art import logo
 #HINT: You can call clear() to clear the output in the console.
 
 # function to insert the bidder
